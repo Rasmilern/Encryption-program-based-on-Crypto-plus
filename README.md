@@ -27,14 +27,15 @@
 
 #### (1) c++程序流程设计:
 
-![resouses\flow-chart1](resouses\flow-chart1.png)
+
 
 #### (2) VBS流程设计:
 
-![resouses\flow-chart2](resouses\flow-chart2.png)
+
 
 ## 3. 使用说明
 
     （1）图形化模式的实现已录屏，见附件MP4文件；   
     （2）命令行模式只需将main函数需要传入的参数换成cin实现，命令行操作截图显示如下。
-![resouses\instruction](resouses\instruction.png)
+
+![5muFHYXwbZ3siaI](https://i.loli.net/2019/09/21/5muFHYXwbZ3siaI.png)
